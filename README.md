@@ -2,7 +2,7 @@
 
 #
 ### Thank you for visiting ! 🎆
-##### 꿈틀 꿈틀 노력하는 백엔드 개발자입니다! 😆
+##### I am a Wiggle Wiggle hard-working BackEnd Developer! 😆
 #
 ### 🔥 My Skills
 <div>
@@ -19,7 +19,7 @@
 
 #
 ### ✍️ Study History
-![](https://github-readme-stats.vercel.app/api?username=Jijuhwan&show_icons=true&theme=cobalt)
+![zz](https://github-readme-stats.vercel.app/api?username=Jijuhwan&show_icons=true&theme=cobalt&hide=prs,issues)
 
 #
 ### 📖 Preferred Language
