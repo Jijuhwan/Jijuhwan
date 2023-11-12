@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wiggle%20Wiggle%20Developer!&fontSize=50)
-<hr>
 
-### <div align="center"> Thank you for visiting ! :laughing: </div>
-
-<hr>
-
-### :fire: My Skills :fire:
+#
+### Thank you for visiting ! 🎆
+##### 꿈틀 꿈틀 노력하는 백엔드 개발자입니다! 😆
+#
+### 🔥 My Skills
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
@@ -18,6 +17,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 </div>
 
-<hr>
+#
+### ✍️ Study History
+![](https://github-readme-stats.vercel.app/api?username=Jijuhwan&show_icons=true&theme=cobalt)
 
-![Jijuhwan's github stats](https://github-readme-stats.vercel.app/api?username=Jijuhwan&show_icons=true)
+#
+### 📖 Preferred Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jijuhwan&layout=compact&theme=cobalt)
