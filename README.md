@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wiggle%20Wiggle%20Developer!&fontSize=50)
 
 #
+
 ### Thank you for visiting ! 🎆
 ##### I am a Wiggle Wiggle hard-working BackEnd Developer! 😆
+
 #
 ### 🔥 My Skills
 <div>
@@ -21,6 +23,8 @@
 ### ✍️ Study History
 ![zz](https://github-readme-stats.vercel.app/api?username=Jijuhwan&show_icons=true&theme=cobalt&hide=prs,issues)
 
+<!--
 #
 ### 📖 Preferred Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jijuhwan&layout=compact&theme=cobalt)
+-->
